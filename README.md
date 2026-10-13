@@ -1,6 +1,6 @@
 # Offshore Delivery Center Site Selection — Tableau Decision Dashboard
 
-**Strategic decision analysis** · AI & IS Strategy, University of Colorado Denver · Fall 2026
+**Strategic decision analysis**
 
 📊 [Interactive Dashboard (Tableau Public)](https://public.tableau.com/views/CountryReadinessDashboardXYZOffshoreDeliveryCenter/ExecutiveDashboard) · 📄 [Final Report (PDF)](Strategic_Decision_Report.pdf) · 📄 [Proposal (PDF)](Strategic_Decision_Proposal.pdf)
 
